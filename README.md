@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Nitish Sharma
 - 👀 I’m interested in React.JS React Native
 - 🔭 I’m working as a React Native Developer
-- 🌱 I’m currently learning Cyber Security Fundamentals
 - 📫 Reach me at: nitish@nitnk9.com
 <!--
 **nitnk9/nitnk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
