@@ -1,7 +1,10 @@
-### Hi there 👋
-
+## 👋 Hi, I’m Nitish Sharma
+- 👀 I’m interested in React.JS React Native
+- 🔭 I’m working as a React Native Developer
+- 🌱 I’m currently learning Cyber Security Fundamentals
+- 📫 Reach me at: nitish@nitnk9.com
 <!--
-**nitishxyz/nitishxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nitnk9/nitnk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +13,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- - 💞️ I’m looking to collaborate on x -->
+
