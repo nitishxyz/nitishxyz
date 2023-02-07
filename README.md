@@ -28,7 +28,7 @@
 <a href="https://fb.com/maybenitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maybenitish" height="30" width="40" /></a>
 <a href="https://instagram.com/maybenitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maybenitish" height="30" width="40" /></a>
 <a href="https://medium.com/@nitishxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nitishxyz" height="30" width="40" /></a>
-<a href="/https://blog.nitishxyz.dev/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.nitishxyz.dev/rss/" height="30" width="40" /></a>
+<a href="https://blog.nitishxyz.dev/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.nitishxyz.dev/rss/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
