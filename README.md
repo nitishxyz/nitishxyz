@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blog.nitishxyz.dev](https://blog.nitishxyz.dev)
 
-- 💬 Ask me about **React Native, Amplify, CDK**
+- 💬 Ask me about **React Native, Amplify, CDK, GraphQL**
 
 - 📫 How to reach me **nitishxyz@proton.me**
 
