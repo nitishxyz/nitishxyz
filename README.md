@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **neo4j, GraphDB**
 
-- 📝 I regularly write articles on [https://blog.nitishxyz.dev](https://blog.nitishxyz.dev)
+- 📝 I regularly write articles on [https://blog.xelestial.co/author/nitishxyz](https://blog.xelestial.co/author/nitishxyz)
 
 - 💬 Ask me about **React Native, Amplify, CDK, GraphQL**
 
